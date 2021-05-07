@@ -32,7 +32,7 @@ public class UserController {
 	
 	@Autowired
 	private FastDFSClient fastDFSClient;
-
+/*我叫谈广*/
 	/**
 	 * @Description: 用户注册/登录
 	 */
